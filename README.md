@@ -1,4 +1,4 @@
-# PharmaDocs
+# PharmaDoc
 
 PharmaDocs is a subscription-based digital platform designed to connect pharmaceutical companies and medical professionals.
 Pharmaceutical companies can promote drug brands, educational sessions, and product updates, while doctors can securely log in to browse medicines by specialty (e.g., dermatology, cardiology), view session details, and request further information or samples.
